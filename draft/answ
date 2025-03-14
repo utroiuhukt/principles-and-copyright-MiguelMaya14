@@ -1,2 +1,11 @@
-What are the "Four Freedoms" defined by the Free Software Foundation?
+1-What are the "Four Freedoms" defined by the Free Software Foundation?
 run the program as you wish, for any purpose.
+2-How does the GNU Manifesto justify the ethical importance of free software?
+emphasazing some points:
+argues that software should be free to use, modify, and share.
+If you value the ability to use and modify software, you should extend the same freedom to others by sharing software freely.
+allows anyone to build upon existing work, accelerating innovation and progress.
+ Programmers have a responsibility to contribute to the common good by creating software that respects users' freedoms.
+3-What is the difference between "open source" and "free software"?
+Free software is developed with the goal of promoting freedom and giving users complete control over the software they use. 
+Open-source software is developed with the goal of producing high-quality software that can be used by anyone.
